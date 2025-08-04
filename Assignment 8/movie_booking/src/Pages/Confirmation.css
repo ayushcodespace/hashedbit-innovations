@@ -1,0 +1,29 @@
+.confirmation-page {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #e0f7fa;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .booking-details {
+    margin-top: 1.5rem;
+    text-align: left;
+  }
+  
+  .booking-details p {
+    margin: 0.5rem 0;
+    font-size: 1.1rem;
+  }
+  
+  button {
+    margin-top: 2rem;
+    padding: 0.75rem 1.5rem;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  

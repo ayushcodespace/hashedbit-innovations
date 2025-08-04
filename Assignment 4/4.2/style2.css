@@ -1,0 +1,11 @@
+.box{
+            border-style: solid;
+            border-color: red;
+            border-width: 5px;
+            border-radius: 20%;
+            text-align: center;
+            padding: 5px;
+            margin:20px;
+            background-color: rgb(5, 5, 95);
+            color: aliceblue;
+        }

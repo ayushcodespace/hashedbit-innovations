@@ -1,0 +1,16 @@
+.movie-details-page {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .movie-details-page img {
+    width: 300px;
+    border-radius: 8px;
+  }
+  
+  .movie-details-page button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
