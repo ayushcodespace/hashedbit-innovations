@@ -27,11 +27,6 @@ This is a responsive and modern **Personal Portfolio Website** built as part of 
 - **Git & GitHub for version control**  
 - **ScrollReveal.js** for animation
 
----
-
-## 🚀 Live Demo
-
-> 🔗 [View Portfolio Live](https://ayushcodespace.github.io/hashedbit-innovations/Assignment-1/)
 
 ---
 
