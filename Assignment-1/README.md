@@ -32,7 +32,7 @@ This is a responsive and modern **Personal Portfolio Website** built as part of 
 
 ## 📂 GitHub Repository
 
-> 📁 [GitHub Repo – hashedbit-innovations](https://github.com/ayushcodespace/hashedbit-innovations/tree/main/Assignment-1)
+> 📁 [GitHub Repo – HashedBit-Innovations](https://github.com/ayushcodespace/hashedbit-innovations/tree/main/Assignment-1)
 
 ---
 
