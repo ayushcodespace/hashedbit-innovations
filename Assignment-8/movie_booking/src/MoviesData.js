@@ -1,0 +1,18 @@
+export const movies = [
+  { id: 1, title: 'Avengers: Endgame', image: 'https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg' },
+  { id: 2, title: 'The Dark Knight', image: 'https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg' },
+  { id: 3, title: 'Spider-Man: No Way Home', image: 'https://image.tmdb.org/t/p/w500/5weKu49pzJCt06OPpjvT80efnQj.jpg' },
+  { id: 4, title: 'Man of Steel', image: 'https://image.tmdb.org/t/p/w500/8i6ZDk97Vyh0jHohMG4vFeFuKJh.jpg' },
+  { id: 5, title: 'Black Panther', image: 'https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg' },
+  { id: 6, title: 'Iron Man', image: 'https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg' },
+  { id: 7, title: 'Thor: Ragnarok', image: 'https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg' },
+  { id: 8, title: 'Doctor Strange', image: 'https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg' },
+  { id: 9, title: 'Wonder Woman', image: 'https://image.tmdb.org/t/p/w500/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg' },
+  { id: 10, title: 'The Flash', image: 'https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg' },
+  { id: 11, title: 'Aquaman', image: 'https://image.tmdb.org/t/p/w500/xLPffWMhMj1l50ND3KchMjYoKmE.jpg' },
+  { id: 12, title: 'The Incredible Hulk', image: 'https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176337_p_v10_ag.jpg' }, 
+  { id: 13, title: 'Captain America: The First Avenger', image: 'https://image.tmdb.org/t/p/w500/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg' },
+  { id: 14, title: 'Black Widow', image: 'https://image.tmdb.org/t/p/w500/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg' },
+  { id: 15, title: 'Loki (Series)', image: 'https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg' },
+  { id: 16, title: 'Deadpool', image: 'https://image.tmdb.org/t/p/w500/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg' },
+];
